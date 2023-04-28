@@ -2,7 +2,7 @@
 ### Challenge "Recriando layout"
 
 ![Badge](https://img.shields.io/badge/version-1.0-green)
-![Badge](https://img.shields.io/badge/status-Development-yellow)
+![Badge](https://img.shields.io/badge/status-Done!-informational)
 
 ### This is a challenge by Rocketseat hosted in:
 https://efficient-sloth-d85.notion.site/Desafio-avan-ado-Recriando-layout-17338681d78c439aa64ac9474d7c6d92
